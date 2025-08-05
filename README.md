@@ -1,8 +1,7 @@
 # 📝 Notes App with Hive in Flutter
 
 This is a simple offline Notes App built using [Flutter](https://flutter.dev/) and [Hive](https://docs.hivedb.dev/) for local data storage. It supports adding, editing, deleting, and storing notes persistently using Hive — a lightweight and blazing-fast key-value database for Flutter.
-Thanks to the mentor - Asif_Taj
-Here's the playlist link: https://www.youtube.com/playlist?list=PLFyjjoCMAPtyQAnT6GilOjctmtTLBOZf4
+
 ---
 
 ## 📁 Folder Structure
@@ -71,4 +70,6 @@ void main() async {
 This project serves as a foundational step in mastering local data storage in Flutter using Hive. As a developer, focusing on scalable architecture and modularization from the start will help you transition smoothly into more complex app development. Keep exploring, keep building.
 
 Happy coding! 🚀
+
+Youtube Link: https://www.youtube.com/playlist?list=PLFyjjoCMAPtyQAnT6GilOjctmtTLBOZf4
 
