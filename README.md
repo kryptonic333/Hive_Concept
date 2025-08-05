@@ -71,6 +71,6 @@ This project serves as a foundational step in mastering local data storage in Fl
 
 Happy coding! 🚀
 
-📚 Resources & Credits
+#📚 Resources & Credits
 This project was inspired by the Hive Database Flutter Tutorial by @Asif Taj on YouTube. Highly recommended for beginners looking to understand local storage in Flutter.
 
