@@ -25,9 +25,7 @@ This is a simple offline Notes App built using [Flutter](https://flutter.dev/) a
 - Edit existing notes
 - Delete notes
 - Save data locally using Hive
-- Form validation with `TextFormField`
-- Simple state management within the widget
-- Beautiful and responsive UI
+
 
 ---
 
